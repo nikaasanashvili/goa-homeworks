@@ -1,4 +1,4 @@
-from turtle import  *
+from turtle import*
 
 #we wont to paint a hous
 
