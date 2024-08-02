@@ -74,7 +74,7 @@ elif operation_number==2:
     if user=="yes":
         name=input("persone name: ")
         last_name=input("persone lastname: ")
-        money=int(input("How many do you want to depozit: "))
+        money=(int(input("How many do you want to depozit: ",)))
         
         # ვალუტის არჩევა და ფულის პირობები
         if money >0:
